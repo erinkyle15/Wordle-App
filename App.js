@@ -8,7 +8,7 @@ export default function App() {
     <SafeAreaView style={styles.container}>
       <StatusBar style="light" />
 
-      <Text style={styles.title}>ERIN'S WORDLE</Text>
+      <Text style={styles.title}>WORDLE</Text>
 
       <View style={styles.map}>
         <View style={styles.row}>
